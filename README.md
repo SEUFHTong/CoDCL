@@ -24,8 +24,6 @@ We've pre-configured the run code in ```run.sh``` for one-click training. Altern
 
 We support dynamic link prediction in both conductive and inductive settings.
 
-To save time, we've stored the trained weights in the ```saved_models/DyGFormer``` directory; you only need to load them later.
-
 
 
 ### 3.Scripts for Dynamic Link Prediction
